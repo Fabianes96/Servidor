@@ -1,0 +1,9 @@
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe.config
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.exe
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.pdb
+c:\users\fabian\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.Form1.resources
